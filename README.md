@@ -2,19 +2,7 @@
 
 ## About Me
 
-I am the owner of Night District, a mobile app revolutionizing the nightlife experience by allowing guests of bars and nightclubs to conveniently place drink orders from their phones.
-
-## Interests
-
-- 👀 I'm interested in software development, entrepreneurship, and creating innovative solutions to everyday problems.
-
-## Current Learning
-
-- 🌱 I'm currently learning about new technologies and trends in the mobile app development industry to continuously improve Night District.
-
-## Collaboration Opportunities
-
-- 💞️ I'm always open to collaborating with talented individuals who are passionate about building great products and enhancing user experiences.
+I am the owner of Night District, a mobile app revolutionizing the nightlife experience.
 
 ## Contact Me
 
