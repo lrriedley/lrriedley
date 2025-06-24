@@ -24,7 +24,7 @@ Assumptions:
 - Moderate work pace; developer with intermediate skill in Flutter/Dart.
 - Provided frames are complete and clear.
 - API endpoints exist or will be created for post expiry.
-- Payment rate: $50/hr.
+- Payment rate: $25/hr each for backend and frontend developer.
 
 ### A. UI Refinement
 
