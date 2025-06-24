@@ -24,9 +24,19 @@ Assumptions:
 - Moderate work pace; developer with intermediate skill in Flutter/Dart.
 - Provided frames are complete and clear.
 - API endpoints exist or will be created for post expiry.
-- Payment rate: $25/hr each for backend and frontend developer.
+- Payment rate: $25/hr each for backend and frontend developer unless noted otherwise.
 
-### A. UI Refinement
+### A. Setup & Research
+
+| Task                     | Est. Hours | Rate  | Description                                    |
+|--------------------------|------------|-------|------------------------------------------------|
+| Environment Setup & Research | 5          | $40/hr | Initial project setup, repo access, review design system, backend/API research |
+
+**Total Setup & Research: ~5 hours**
+
+---
+
+### B. UI Refinement
 
 | Screen Type             | Est. Hours/Screen | # of Screens | Total Hours | Description                                       |
 |-------------------------|-------------------|--------------|-------------|---------------------------------------------------|
@@ -44,7 +54,7 @@ Assumptions:
 
 ---
 
-### B. Feature Implementation
+### C. Feature Implementation
 
 | Feature                        | Frontend (hrs) | Backend (hrs) | Description                                              |
 |--------------------------------|----------------|---------------|----------------------------------------------------------|
@@ -59,13 +69,14 @@ Assumptions:
 
 ---
 
-### C. Project Totals
+### D. Project Totals
 
-| Area                 | Total Hours |
-|----------------------|-------------|
-| Frontend (UI + Features) | 39 + 12 = **51** |
-| Backend (Features)       | 10         |
-| **Grand Total**          | **61**     |
+| Area                     | Total Hours |
+|--------------------------|-------------|
+| Setup & Research         | 5           |
+| Frontend (UI + Features) | 39 + 12 = 51 |
+| Backend (Features)       | 10          |
+| **Grand Total**          | **66**      |
 
 ---
 
@@ -73,14 +84,15 @@ Assumptions:
 
 | Milestone                  | Deliverable Description                                             | Hours | Rate  | Amount  | Cumulative Amount | Due Upon                   |
 |----------------------------|---------------------------------------------------------------------|-------|-------|---------|-------------------|----------------------------|
-| 1. UI Refinement Phase 1   | Core screens (Home, Post Detail, Create, Login/Register)            | 23    | $50   | $1,150  | $1,150            | Completion & client review |
-| 2. UI Refinement Phase 2   | Remaining screens (Profile, Notifications, Settings, Misc.)         | 16    | $50   | $800    | $1,950            | Completion & client review |
-| 3. Post Expiry (Backend)   | Server-side 24hr expiry logic, DB, scheduled task                   | 6     | $50   | $300    | $2,250            | Feature tested             |
-| 4. Countdown Timer (UI)    | Countdown timer UI, expiry sync, burst animation                    | 9     | $50   | $450    | $2,700            | Feature demo & approval    |
-| 5. Integration & QA        | QA, bugfix, polish, documentation, delivery                         | 7     | $50   | $350    | $3,050            | Final sign-off             |
+| 0. Setup & Research        | Environment setup, project review, architecture/API prep           | 5     | $40   | $200    | $200              | Initial project access     |
+| 1. UI Refinement Phase 1   | Core screens (Home, Post Detail, Create, Login/Register)            | 23    | $50   | $1,150  | $1,350            | Completion & client review |
+| 2. UI Refinement Phase 2   | Remaining screens (Profile, Notifications, Settings, Misc.)         | 16    | $50   | $800    | $2,150            | Completion & client review |
+| 3. Post Expiry (Backend)   | Server-side 24hr expiry logic, DB, scheduled task                   | 6     | $50   | $300    | $2,450            | Feature tested             |
+| 4. Countdown Timer (UI)    | Countdown timer UI, expiry sync, burst animation                    | 9     | $50   | $450    | $2,900            | Feature demo & approval    |
+| 5. Integration & QA        | QA, bugfix, polish, documentation, delivery                         | 7     | $50   | $350    | $3,250            | Final sign-off             |
 
-**Total Estimated Cost:** $3,050  
-**Total Estimated Hours:** 61
+**Total Estimated Cost:** $3,250  
+**Total Estimated Hours:** 66
 
 ---
 
